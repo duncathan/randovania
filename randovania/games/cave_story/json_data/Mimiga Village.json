@@ -1264,13 +1264,13 @@
                     "node_type": "event",
                     "heal": false,
                     "coordinates": {
-                        "x": 200.2456813819578,
-                        "y": 86.61804222648752,
-                        "z": 0
+                        "x": 200.25,
+                        "y": 86.62,
+                        "z": 0.0
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventMaPignon",
                     "connections": {
                         "Pickup (Ma Pignon Boss)": {
                             "type": "and",
@@ -1377,13 +1377,13 @@
                     "node_type": "event",
                     "heal": false,
                     "coordinates": {
-                        "x": 247.1810620601408,
-                        "y": 151.82597568777993,
-                        "z": 0
+                        "x": 247.18,
+                        "y": 151.83,
+                        "z": 0.0
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventBalrog",
                     "connections": {
                         "Door to Mimiga Village": {
                             "type": "and",

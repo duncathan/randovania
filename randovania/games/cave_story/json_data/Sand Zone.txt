@@ -229,7 +229,7 @@ Extra - map_name: Curly
       Trivial
 
 > Event - Curly; Heals? False
-  * Event Generic Event
+  * Event Defeated Curly
   > Before Curly
       Trivial
 

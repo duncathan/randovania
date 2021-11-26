@@ -1589,13 +1589,13 @@
                     "node_type": "event",
                     "heal": false,
                     "coordinates": {
-                        "x": 217.07452907452907,
-                        "y": 131.8984438984439,
-                        "z": 0
+                        "x": 217.07,
+                        "y": 131.9,
+                        "z": 0.0
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventBalrog2",
                     "connections": {
                         "Door to Grasstown": {
                             "type": "and",
@@ -1912,13 +1912,13 @@
                     "node_type": "event",
                     "heal": false,
                     "coordinates": {
-                        "x": 166.62407862407863,
-                        "y": 104.73382473382472,
-                        "z": 0
+                        "x": 166.62,
+                        "y": 104.73,
+                        "z": 0.0
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventBalfrog",
                     "connections": {
                         "Door to Grasstown": {
                             "type": "and",

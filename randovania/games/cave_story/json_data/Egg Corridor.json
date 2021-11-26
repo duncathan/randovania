@@ -386,13 +386,13 @@
                     "node_type": "event",
                     "heal": false,
                     "coordinates": {
-                        "x": 4610.27817067421,
-                        "y": 137.4295143800095,
-                        "z": 0
+                        "x": 4610.28,
+                        "y": 137.43,
+                        "z": 0.0
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventIgor",
                     "connections": {
                         "Outside Egg No. 00": {
                             "type": "and",

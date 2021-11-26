@@ -294,13 +294,13 @@
                     "node_type": "event",
                     "heal": false,
                     "coordinates": {
-                        "x": 185.42833742833744,
-                        "y": 105.39557739557739,
-                        "z": 0
+                        "x": 185.43,
+                        "y": 105.4,
+                        "z": 0.0
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventBalrog3",
                     "connections": {
                         "Door to Labyrinth B": {
                             "type": "and",
@@ -1003,13 +1003,13 @@
                     "node_type": "event",
                     "heal": false,
                     "coordinates": {
-                        "x": 469.9099099099099,
-                        "y": 166.00163800163793,
-                        "z": 0
+                        "x": 469.91,
+                        "y": 166.0,
+                        "z": 0.0
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventIronhead",
                     "connections": {
                         "Pickup (Ironhead Boss)": {
                             "type": "and",
@@ -1696,13 +1696,13 @@
                     "node_type": "event",
                     "heal": false,
                     "coordinates": {
-                        "x": 2464.8648648648646,
-                        "y": 118.50395850395853,
-                        "z": 0
+                        "x": 2464.86,
+                        "y": 118.5,
+                        "z": 0.0
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventMonsterX",
                     "connections": {
                         "Outside Camp": {
                             "type": "and",
@@ -2119,13 +2119,13 @@
                     "node_type": "event",
                     "heal": false,
                     "coordinates": {
-                        "x": 121.21867321867322,
-                        "y": 103.92137592137593,
-                        "z": 0
+                        "x": 121.22,
+                        "y": 103.92,
+                        "z": 0.0
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventPuu",
                     "connections": {
                         "Door to Labyrinth W": {
                             "type": "and",

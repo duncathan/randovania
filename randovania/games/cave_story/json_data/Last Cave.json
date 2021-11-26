@@ -121,7 +121,7 @@
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventRedDemon",
                     "connections": {
                         "Door to Plantation": {
                             "type": "resource",
@@ -433,7 +433,7 @@
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventMisery",
                     "connections": {
                         "Entrance to The King's Table": {
                             "type": "and",
@@ -536,7 +536,7 @@
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventDoctor",
                     "connections": {
                         "Entrance to Black Space": {
                             "type": "and",

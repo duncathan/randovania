@@ -396,6 +396,62 @@
             "eventCore2": {
                 "long_name": "Defeated Undead Core",
                 "extra": {}
+            },
+            "eventIgor": {
+                "long_name": "Defeated Igor",
+                "extra": {}
+            },
+            "eventBalfrog": {
+                "long_name": "Defeated Balfrog",
+                "extra": {}
+            },
+            "eventBalrog2": {
+                "long_name": "Defeated Balrog 2",
+                "extra": {}
+            },
+            "eventPuu": {
+                "long_name": "Defeated Puu Black",
+                "extra": {}
+            },
+            "eventMonsterX": {
+                "long_name": "Defeated Monster X",
+                "extra": {}
+            },
+            "eventBalrog3": {
+                "long_name": "Defeated Balrog 3",
+                "extra": {}
+            },
+            "eventIronhead": {
+                "long_name": "Defeated Ironhead",
+                "extra": {}
+            },
+            "eventRedDemon": {
+                "long_name": "Defeated Red Demon",
+                "extra": {}
+            },
+            "eventMisery": {
+                "long_name": "Defeated Misery",
+                "extra": {}
+            },
+            "eventDoctor": {
+                "long_name": "Defeated Doctor",
+                "extra": {}
+            },
+            "eventMaPignon": {
+                "long_name": "Defeated Ma Pignon",
+                "extra": {}
+            },
+            "eventSisters": {
+                "long_name": "Defeated Sisters",
+                "extra": {}
+            },
+            "eventFightCurly": {
+                "long_name": "Defeated Curly",
+                "extra": {}
+            },
+            "eventBalrog": {
+                "long_name": "Defeated Balrog 1",
+                "extra": {}
             }
         },
         "tricks": {

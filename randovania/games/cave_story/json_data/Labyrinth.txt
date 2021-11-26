@@ -49,7 +49,7 @@ Extra - map_name: MazeS
       After Generic Event
 
 > Event - Balrog 3; Heals? False
-  * Event Generic Event
+  * Event Defeated Balrog 3
   > Door to Labyrinth B
       Trivial
 
@@ -187,7 +187,7 @@ Extra - map_name: Stream
   * One-Way Exit to Reservoir/Entrance from Main Artery
 
 > Event - Ironhead; Heals? False
-  * Event Generic Event
+  * Event Defeated Ironhead
   > Pickup (Ironhead Boss)
       Trivial
 
@@ -309,7 +309,7 @@ Extra - map_name: MazeW
       Can Kill Bosses
 
 > Event - Monster X; Heals? False
-  * Event Generic Event
+  * Event Defeated Monster X
   > Outside Camp
       Trivial
   > Door to Labyrinth B
@@ -407,7 +407,7 @@ Extra - map_name: MazeD
       Can Kill Bosses
 
 > Event - Puu Black; Heals? False
-  * Event Generic Event
+  * Event Defeated Puu Black
   > Door to Labyrinth W
       Trivial
 

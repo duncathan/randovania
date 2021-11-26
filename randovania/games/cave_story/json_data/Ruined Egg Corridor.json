@@ -748,13 +748,13 @@
                     "node_type": "event",
                     "heal": false,
                     "coordinates": {
-                        "x": 197.8116298116298,
-                        "y": 139.69533169533167,
-                        "z": 0
+                        "x": 197.81,
+                        "y": 139.7,
+                        "z": 0.0
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventSisters",
                     "connections": {
                         "Door to Egg Corridor? (Western)": {
                             "type": "and",

@@ -22,7 +22,7 @@ Extra - in_dark_aether: False
       Booster 2.0 and Can Kill Bosses
 
 > Event - Red Demon; Heals? False
-  * Event Generic Event
+  * Event Defeated Red Demon
   > Door to Plantation
       Booster 2.0
   > Pickup (Red Demon Boss)
@@ -87,7 +87,7 @@ Throne Room
 Extra - map_name: Ring1
 Extra - in_dark_aether: False
 > Event - Misery; Heals? False
-  * Event Generic Event
+  * Event Defeated Misery
   > Entrance to The King's Table
       Trivial
 
@@ -109,7 +109,7 @@ The King's Table
 Extra - map_name: Ring2
 Extra - in_dark_aether: False
 > Event - Doctor; Heals? False
-  * Event Generic Event
+  * Event Defeated Doctor
   > Entrance to Black Space
       Trivial
 

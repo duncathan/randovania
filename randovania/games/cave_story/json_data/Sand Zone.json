@@ -2236,13 +2236,13 @@
                     "node_type": "event",
                     "heal": false,
                     "coordinates": {
-                        "x": 232.66830466830467,
-                        "y": 105.29729729729729,
-                        "z": 0
+                        "x": 232.67,
+                        "y": 105.3,
+                        "z": 0.0
                     },
                     "description": "",
                     "extra": {},
-                    "event_name": "eventBoss",
+                    "event_name": "eventFightCurly",
                     "connections": {
                         "Before Curly": {
                             "type": "and",
