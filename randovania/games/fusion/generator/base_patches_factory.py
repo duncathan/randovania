@@ -31,6 +31,11 @@ class FusionBasePatchesFactory(BasePatchesFactory[FusionConfiguration]):
         dock_weakness: list[tuple[DockNode, DockWeakness]] = []
         open_transition_door = game.dock_weakness_database.get_by_weakness("Door", "Open Hatch")
 
+        for dock_node in (node for node in game.region_list.iterate_nodes() if isinstance(node, DockNode)):
+            if dock_node.extra.get("sector_hub_elevator_door"):
+                dock_weakness.append((dock_node, open_transition_door))
+                dock_weakness.append((get_node(dock_node.default_connection, DockNode), open_transition_door))
+
         if configuration.open_save_recharge_hatches:
             for area in game.region_list.all_areas:
                 if configuration.open_save_recharge_hatches and area.extra.get("unlocked_save_recharge_station"):
